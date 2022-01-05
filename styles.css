@@ -1,0 +1,63 @@
+*{
+    background-color: whitesmoke;
+}
+
+h2{
+    text-align: center;
+   
+    
+}
+
+
+
+
+
+.box1 {
+
+    text-align: center;
+    background-color: aliceblue;
+    color: #777;
+    width: 500px;
+    height: 100px;
+    display: block;
+    border: 1px solid black;
+    margin: auto;
+    margin-bottom: 5%;
+}
+
+.sumbit{
+    width: 150px;
+    padding: .90em .90em;
+    background-color: aliceblue;
+    margin-bottom: 90%;
+    display: block;
+    margin: 40px auto 80px auto;
+    cursor: pointer;
+}
+
+.IDE{
+    
+    height: 200px;
+    width: 400px;
+    background-color:transparent;
+    margin: auto;
+    margin-bottom: 5%;
+    word-wrap: break-word;
+    padding: 5%;
+}
+.text{
+    padding-top: 0;
+    padding-bottom: 0;
+    background-color:aliceblue;
+    display: block;
+    text-align: left;
+    margin: auto;
+    height: 200px;
+    width: 400px;
+}
+.tile{
+    padding-bottom: 0;
+    text-align:center;
+    display: block;
+    margin: auto;
+}
